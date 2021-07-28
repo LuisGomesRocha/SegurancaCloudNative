@@ -8,7 +8,7 @@
 
 
 <h5 align="center">
-    <a href="https://www.youtube.com/watch?v=Kzcz-EVKBEQ">🔗Docker em 22 minutos - teoria e prática (Rápido!)</a>
+    <a href="https://www.baeldung.com/spring-boot-https-self-signed-certificate">🔗HTTPS usando certificado autoassinado no Spring Boot</a>
 </h5>
 
 <p align="justify"> :robot: Em meio às incertezas quanto à formação da Autoridade Nacional de Proteção de Dados (ANPD) e sobre a data de entrada em vigor da Lei Geral de Proteção de Dados (LGPD), uma coisa é certa: é mandatório todo desenvolvedor deve garantir a privacidade e a proteção dos dados pessoais e dos dados sensíveis que coletam, manipulam, processam e armazenam.  Além das penalidades administrativas e financeiras que as autoridades poderão impor, a empresa pode sofrer prejuízos mercadológicos, falta de credibilidade do mercado e degradação da imagem, entre outros danos.:robot: </p>
