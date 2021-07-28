@@ -1,0 +1,2 @@
+# SegurancaCloudNative
+Aplicações com características cloud-native estão aptas a rodar em múltiplos ambientes, isso faz com que não tenhamos certeza de quais níveis de segurança estão aplicados em determinados ambientes. Por esse motivo, devemos nos preocupar com ainda mais segurança nesse contexto.  Provedores de nuvem pública possuem um elevado nível de segurança, mas pouco adianta se nossas aplicações não implementarem e seguirem boas práticas de segurança.
